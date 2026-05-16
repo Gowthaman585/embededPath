@@ -1,6 +1,6 @@
 ## SECOND ACTIVITY
 
-Usage of source.mk:
+Usage of source.mk:  
 by utilizing the source.mk we can overcome the need of  
 declaring each individual file for compiling them into  
 executable or linking.  
