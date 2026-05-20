@@ -18,7 +18,7 @@ The circuit utilizes an internal pull-up resistor configuration to eliminate sig
 | **Pushbutton** | Terminal 1a | **Digital Pin 2** |  
 | **Pushbutton** | Terminal 2b | **GND** | 
    
-[Circuit diagram](circuit_diag.png)  
+![Circuit diagram](circuit_diag.png)  
 ---
 ## 🧠 The Logic & Code  
 Instead of cycling through messy increments, this code leverages an intuitive `if-else` state structure to evaluate the mechanical button configuration instantly on every loop cycle.  
